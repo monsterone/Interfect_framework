@@ -1,0 +1,41 @@
+2019-08-09 09:13:22,606 read_excel.py[line:6] INFO 初始化表格
+2019-08-09 09:13:22,647 read_excel.py[line:22] INFO 读取表格数据
+2019-08-09 09:13:22,657 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 09:13:22,658 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 09:13:22,662 mysql_db.py[line:81] INFO 开始数据处理
+2019-08-09 09:13:22,662 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 09:13:22,662 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 09:13:22,684 mysql_db.py[line:73] INFO 初始化数据库
+2019-08-09 09:13:22,684 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 09:13:22,697 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,698 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,699 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,701 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,702 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,703 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 09:13:22,713 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,714 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,715 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,716 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,718 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 09:13:22,718 mysql_db.py[line:67] INFO 关闭数据库连接
+2019-08-09 09:13:22,719 mysql_db.py[line:69] INFO ======init data finished!=====
+2019-08-09 09:13:22,719 test_data.py[line:19] INFO 接口测试开始
+2019-08-09 09:13:22,719 test_data.py[line:28] INFO 处理用例数据
+2019-08-09 09:13:22,719 test_data.py[line:53] INFO POST请求
+2019-08-09 09:13:23,746 test_data.py[line:28] INFO 处理用例数据
+2019-08-09 09:13:23,746 test_data.py[line:53] INFO POST请求
+2019-08-09 09:13:24,760 test_data.py[line:28] INFO 处理用例数据
+2019-08-09 09:13:24,760 test_data.py[line:53] INFO POST请求
+2019-08-09 09:13:25,764 test_data.py[line:28] INFO 处理用例数据
+2019-08-09 09:13:25,764 test_data.py[line:53] INFO POST请求
+2019-08-09 09:13:26,767 test_data.py[line:28] INFO 处理用例数据
+2019-08-09 09:13:26,767 test_data.py[line:53] INFO POST请求
+2019-08-09 09:13:27,770 test_data.py[line:23] INFO 接口测试结束
+2019-08-09 09:13:27,771 send_email.py[line:33] INFO 初始化邮件数据
+2019-08-09 09:13:27,771 send_email.py[line:101] INFO 查找最新生成的测试报告
+2019-08-09 09:13:27,786 send_email.py[line:42] INFO 发送邮件初始化
+2019-08-09 09:13:27,786 send_email.py[line:63] INFO 添加邮件正文
+2019-08-09 09:13:27,787 send_email.py[line:76] INFO 添加邮件附件
+2019-08-09 09:13:27,788 send_email.py[line:89] INFO 邮件服务器连接
+2019-08-09 09:13:32,307 send_email.py[line:95] INFO 邮件发送成功

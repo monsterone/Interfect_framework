@@ -1,0 +1,13 @@
+{"sign_event":[
+{"id":12,"name":"小米9","`limit`":250,"status":1,"address":"火车南站2","start_time":"2019-08-10 15:46:43"},
+  {"id":13,"name":"荣耀3","`limit`":250,"status":1,"address":"火车南站3","start_time":"2019-08-10 15:46:43"},
+  {"id":14,"name":"荣耀4","`limit`":250,"status":1,"address":"火车南站4","start_time":"2019-08-10 15:46:43"},
+  {"id":15,"name":"荣耀5","`limit`":250,"status":1,"address":"火车南站5","start_time":"2019-08-10 15:46:43"},
+  {"id":16,"name":"荣耀6","`limit`":250,"status":1,"address":"火车南站6","start_time":"2019-08-10 15:46:43"}
+],"sign_guest":[
+  {"id":1,"realname":"怪兽1","phone":18080808080,"email":"123@126.com","sign":1,"event_id":12},
+   {"id":2,"realname":"怪兽2","phone":18080808081,"email":"456@126.com","sign":0,"event_id":12},
+   {"id":3,"realname":"怪兽3","phone":18080808083,"email":"789@126.com","sign":1,"event_id":12},
+   {"id":4,"realname":"怪兽4","phone":18080808086,"email":"901@126.com","sign":1,"event_id":14},
+   {"id":5,"realname":"怪兽5","phone":18080808085,"email":"012@126.com","sign":0,"event_id":15}
+]}

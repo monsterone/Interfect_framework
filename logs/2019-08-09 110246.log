@@ -1,0 +1,31 @@
+2019-08-09 11:02:46,915 read_excel.py[line:6] INFO 初始化表格
+2019-08-09 11:02:46,962 read_excel.py[line:22] INFO 读取表格数据
+2019-08-09 11:02:46,992 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 11:02:46,993 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 11:02:46,995 mysql_db.py[line:81] INFO 开始数据处理
+2019-08-09 11:02:46,995 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 11:02:46,995 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 11:02:46,997 mysql_db.py[line:73] INFO 初始化数据库
+2019-08-09 11:02:46,997 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 11:02:47,011 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,013 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,015 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,018 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,019 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,021 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 11:02:47,033 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,035 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,036 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,038 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,039 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 11:02:47,041 mysql_db.py[line:67] INFO 关闭数据库连接
+2019-08-09 11:02:47,041 mysql_db.py[line:69] INFO ======init data finished!=====
+2019-08-09 11:02:47,041 test_data.py[line:20] INFO 接口测试开始
+2019-08-09 11:02:47,043 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 11:02:58,798 data_get.py[line:23] INFO 开始获取数据
+2019-08-09 11:02:58,798 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 11:03:03,526 test_data.py[line:45] INFO POST请求
+2019-08-09 11:03:06,656 test_data.py[line:54] INFO 断言assertEqual
+2019-08-09 11:03:11,232 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 11:03:18,733 data_get.py[line:23] INFO 开始获取数据
+2019-08-09 11:03:18,734 data_get.py[line:12] INFO 遍历取出数据

@@ -1,0 +1,43 @@
+2019-08-08 17:03:04,316 read_excel.py[line:6] INFO 初始化表格
+2019-08-08 17:03:04,336 read_excel.py[line:22] INFO 读取表格数据
+2019-08-08 17:03:04,348 mysql_db.py[line:31] INFO ====init data====
+2019-08-08 17:03:04,349 mysql_db.py[line:32] INFO 连接数据库
+2019-08-08 17:03:04,353 mysql_db.py[line:81] INFO 开始数据处理
+2019-08-08 17:03:04,353 mysql_db.py[line:31] INFO ====init data====
+2019-08-08 17:03:04,353 mysql_db.py[line:32] INFO 连接数据库
+2019-08-08 17:03:04,354 mysql_db.py[line:73] INFO 初始化数据库
+2019-08-08 17:03:04,354 mysql_db.py[line:40] INFO 清除表数据
+2019-08-08 17:03:04,368 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,369 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,371 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,373 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,374 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,376 mysql_db.py[line:40] INFO 清除表数据
+2019-08-08 17:03:04,387 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,388 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,389 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,391 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,392 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 17:03:04,393 mysql_db.py[line:67] INFO 关闭数据库连接
+2019-08-08 17:03:04,393 mysql_db.py[line:69] INFO ======init data finished!=====
+2019-08-08 17:03:04,394 test_data.py[line:19] INFO 接口测试开始
+2019-08-08 17:03:04,394 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 17:03:04,394 test_data.py[line:53] INFO POST请求
+2019-08-08 17:03:04,409 test_data.py[line:62] INFO 断言assertEqual
+2019-08-08 17:03:04,409 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 17:03:04,409 test_data.py[line:53] INFO POST请求
+2019-08-08 17:03:04,419 test_data.py[line:62] INFO 断言assertEqual
+2019-08-08 17:03:04,419 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 17:03:04,419 test_data.py[line:53] INFO POST请求
+2019-08-08 17:03:04,436 test_data.py[line:62] INFO 断言assertEqual
+2019-08-08 17:03:04,436 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 17:03:04,436 test_data.py[line:53] INFO POST请求
+2019-08-08 17:03:04,443 test_data.py[line:59] INFO 断言assertIn
+2019-08-08 17:03:04,443 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 17:03:04,443 test_data.py[line:53] INFO POST请求
+2019-08-08 17:03:04,452 test_data.py[line:62] INFO 断言assertEqual
+2019-08-08 17:03:04,452 test_data.py[line:23] INFO 接口测试结束
+2019-08-08 17:03:04,453 send_email.py[line:33] INFO 初始化邮件数据
+2019-08-08 17:03:04,453 send_email.py[line:101] INFO 查找最新生成的测试报告
+2019-08-08 17:03:04,454 send_email.py[line:42] INFO 发送邮件初始化
+2019-08-08 17:03:04,454 send_email.py[line:63] INFO 添加邮件正文

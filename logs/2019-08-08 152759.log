@@ -1,0 +1,44 @@
+2019-08-08 15:27:59,092 read_excel.py[line:6] INFO 初始化表格
+2019-08-08 15:27:59,111 read_excel.py[line:22] INFO 读取表格数据
+2019-08-08 15:27:59,112 run_all_test.py[line:84] INFO 构建测试集
+2019-08-08 15:27:59,112 run_all_test.py[line:93] INFO 定义测试报告生成格式
+2019-08-08 15:27:59,112 run_all_test.py[line:97] INFO 生成测试报告
+2019-08-08 15:27:59,113 mysql_db.py[line:31] INFO ====init data====
+2019-08-08 15:27:59,113 mysql_db.py[line:32] INFO 连接数据库
+2019-08-08 15:27:59,115 mysql_db.py[line:81] INFO 开始数据处理
+2019-08-08 15:27:59,115 mysql_db.py[line:31] INFO ====init data====
+2019-08-08 15:27:59,115 mysql_db.py[line:32] INFO 连接数据库
+2019-08-08 15:27:59,116 mysql_db.py[line:73] INFO 初始化数据库
+2019-08-08 15:27:59,117 mysql_db.py[line:40] INFO 清除表数据
+2019-08-08 15:27:59,128 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,129 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,132 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,134 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,135 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,136 mysql_db.py[line:40] INFO 清除表数据
+2019-08-08 15:27:59,148 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,149 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,151 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,152 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,154 mysql_db.py[line:51] INFO 插入表数据
+2019-08-08 15:27:59,155 mysql_db.py[line:67] INFO 关闭数据库连接
+2019-08-08 15:27:59,155 mysql_db.py[line:69] INFO ======init data finished!=====
+2019-08-08 15:27:59,155 test_data.py[line:19] INFO 接口测试开始
+2019-08-08 15:27:59,155 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 15:27:59,155 test_data.py[line:53] INFO POST请求
+2019-08-08 15:27:59,160 test_data.py[line:62] INFO 断言assertEqual
+2019-08-08 15:27:59,160 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 15:27:59,160 test_data.py[line:53] INFO POST请求
+2019-08-08 15:27:59,166 test_data.py[line:62] INFO 断言assertEqual
+2019-08-08 15:27:59,166 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 15:27:59,166 test_data.py[line:53] INFO POST请求
+2019-08-08 15:27:59,173 test_data.py[line:62] INFO 断言assertEqual
+2019-08-08 15:27:59,173 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 15:27:59,173 test_data.py[line:53] INFO POST请求
+2019-08-08 15:27:59,191 test_data.py[line:59] INFO 断言assertIn
+2019-08-08 15:27:59,191 test_data.py[line:28] INFO 处理用例数据
+2019-08-08 15:27:59,191 test_data.py[line:53] INFO POST请求
+2019-08-08 15:27:59,209 test_data.py[line:62] INFO 断言assertEqual
+2019-08-08 15:27:59,209 test_data.py[line:23] INFO 接口测试结束
+2019-08-08 15:27:59,216 run_all_test.py[line:74] INFO 查找最新生成的测试报告
+2019-08-08 15:27:59,217 run_all_test.py[line:35] INFO 发送测试报告,带附件

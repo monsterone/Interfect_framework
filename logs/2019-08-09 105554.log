@@ -1,0 +1,36 @@
+2019-08-09 10:55:54,857 read_excel.py[line:6] INFO 初始化表格
+2019-08-09 10:55:54,905 read_excel.py[line:22] INFO 读取表格数据
+2019-08-09 10:55:54,907 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 10:55:54,907 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 10:55:54,909 mysql_db.py[line:81] INFO 开始数据处理
+2019-08-09 10:55:54,909 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 10:55:54,909 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 10:55:54,911 mysql_db.py[line:73] INFO 初始化数据库
+2019-08-09 10:55:54,912 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 10:55:54,926 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,928 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,931 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,933 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,934 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,936 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 10:55:54,947 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,949 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,951 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,952 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,953 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:55:54,955 mysql_db.py[line:67] INFO 关闭数据库连接
+2019-08-09 10:55:54,955 mysql_db.py[line:69] INFO ======init data finished!=====
+2019-08-09 10:55:54,956 test_data.py[line:20] INFO 接口测试开始
+2019-08-09 10:55:54,958 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:56:05,973 data_get.py[line:23] INFO 开始获取数据
+2019-08-09 10:56:05,974 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:56:11,386 test_data.py[line:45] INFO POST请求
+2019-08-09 10:56:22,074 test_data.py[line:54] INFO 断言assertEqual
+2019-08-09 10:56:29,360 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:56:36,550 data_get.py[line:23] INFO 开始获取数据
+2019-08-09 10:56:36,552 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:57:36,455 test_data.py[line:45] INFO POST请求
+2019-08-09 10:57:37,961 test_data.py[line:54] INFO 断言assertEqual
+2019-08-09 10:57:44,503 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:58:02,119 data_get.py[line:23] INFO 开始获取数据
+2019-08-09 10:58:31,599 data_get.py[line:12] INFO 遍历取出数据

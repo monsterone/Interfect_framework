@@ -1,0 +1,41 @@
+2019-08-09 10:35:20,422 read_excel.py[line:6] INFO 初始化表格
+2019-08-09 10:35:20,442 read_excel.py[line:22] INFO 读取表格数据
+2019-08-09 10:35:20,443 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 10:35:20,443 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 10:35:20,445 mysql_db.py[line:81] INFO 开始数据处理
+2019-08-09 10:35:20,445 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 10:35:20,445 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 10:35:20,457 mysql_db.py[line:73] INFO 初始化数据库
+2019-08-09 10:35:20,458 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 10:35:20,488 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,490 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,492 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,495 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,496 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,497 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 10:35:20,509 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,511 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,512 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,513 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,515 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:35:20,516 mysql_db.py[line:67] INFO 关闭数据库连接
+2019-08-09 10:35:20,516 mysql_db.py[line:69] INFO ======init data finished!=====
+2019-08-09 10:35:20,516 test_data.py[line:20] INFO 接口测试开始
+2019-08-09 10:35:20,517 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:35:20,517 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:35:20,517 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:35:20,517 test_data.py[line:45] INFO POST请求
+2019-08-09 10:35:20,521 test_data.py[line:54] INFO 断言assertEqual
+2019-08-09 10:35:20,522 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:35:20,522 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:35:20,522 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:35:20,523 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:35:20,523 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:35:20,523 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:35:20,523 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:35:20,523 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:35:20,523 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:35:20,524 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:35:20,524 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:35:20,524 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:35:20,524 test_data.py[line:24] INFO 接口测试结束

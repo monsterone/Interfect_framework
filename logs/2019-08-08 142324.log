@@ -1,0 +1,6 @@
+2019-08-08 14:23:24,668 read_excel.py[line:21] INFO 读取表格数据
+2019-08-08 14:23:24,671 mysql_db.py[line:81] INFO 开始处理数据
+2019-08-08 14:23:24,672 mysql_db.py[line:73] INFO 初始化数据库
+2019-08-08 14:23:24,707 mysql_db.py[line:68] INFO 关闭数据库连接
+2019-08-08 14:23:24,707 test_data.py[line:19] INFO 接口测试开始
+2019-08-08 14:23:24,782 test_data.py[line:23] INFO 接口测试结束

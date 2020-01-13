@@ -1,0 +1,47 @@
+2019-08-09 10:09:34,619 read_excel.py[line:6] INFO 初始化表格
+2019-08-09 10:09:34,639 read_excel.py[line:22] INFO 读取表格数据
+2019-08-09 10:09:34,647 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 10:09:34,647 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 10:09:34,649 mysql_db.py[line:81] INFO 开始数据处理
+2019-08-09 10:09:34,649 mysql_db.py[line:31] INFO ====init data====
+2019-08-09 10:09:34,649 mysql_db.py[line:32] INFO 连接数据库
+2019-08-09 10:09:34,661 mysql_db.py[line:73] INFO 初始化数据库
+2019-08-09 10:09:34,661 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 10:09:34,676 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,678 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,680 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,683 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,685 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,687 mysql_db.py[line:40] INFO 清除表数据
+2019-08-09 10:09:34,701 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,702 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,703 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,705 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,707 mysql_db.py[line:51] INFO 插入表数据
+2019-08-09 10:09:34,708 mysql_db.py[line:67] INFO 关闭数据库连接
+2019-08-09 10:09:34,708 mysql_db.py[line:69] INFO ======init data finished!=====
+2019-08-09 10:09:34,708 test_data.py[line:20] INFO 接口测试开始
+2019-08-09 10:09:34,708 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:09:34,709 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:09:34,709 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:09:34,709 test_data.py[line:45] INFO POST请求
+2019-08-09 10:09:34,710 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:09:34,710 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:09:34,710 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:09:34,711 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:09:34,711 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:09:34,711 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:09:34,711 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:09:34,711 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:09:34,711 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:09:34,712 test_data.py[line:29] INFO 处理用例数据
+2019-08-09 10:09:34,712 data_get.py[line:22] INFO 开始获取数据
+2019-08-09 10:09:34,712 data_get.py[line:12] INFO 遍历取出数据
+2019-08-09 10:09:34,712 test_data.py[line:24] INFO 接口测试结束
+2019-08-09 10:09:34,713 send_email.py[line:33] INFO 初始化邮件数据
+2019-08-09 10:09:34,713 send_email.py[line:101] INFO 查找最新生成的测试报告
+2019-08-09 10:09:34,714 send_email.py[line:42] INFO 发送邮件初始化
+2019-08-09 10:09:34,714 send_email.py[line:63] INFO 添加邮件正文
+2019-08-09 10:09:34,715 send_email.py[line:76] INFO 添加邮件附件
+2019-08-09 10:09:34,715 send_email.py[line:89] INFO 邮件服务器连接
+2019-08-09 10:09:35,938 send_email.py[line:95] INFO 邮件发送成功
